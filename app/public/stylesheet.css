@@ -1,0 +1,53 @@
+.firstBody {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: transparent;
+    margin: 0 auto;
+    background-image: url('../media/FrindFinder.png');
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+}
+
+
+
+
+
+.btn{
+    padding: 5px 15px 5px 15px;
+    margin-top: 500px;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.secondBody {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url('../media/live.laugh.love.png');
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+    background-color: white
+}
+
+
+
+.form-control {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+
+@media screen and (max-width: 768px) {
+    .firstBody {
+        width: 100%; 
+    }
+}
+
